@@ -1,0 +1,13 @@
+{
+    "name": "THEC64-Player-XMAS2026",
+    "description": "A polyphonic music player for the Commodore 64 featuring Let It Snow by Jule Styne and Sammy Cahn.",
+    "toolkit": "basic",
+    "sources": [
+        "XMAS2026.bas"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}
